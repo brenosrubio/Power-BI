@@ -1,1 +1,24 @@
+Neste projeto, a Helô, proprietária de um pet shop chamado Gatitos, vai nos contratar para implementar um processo de BI (Business Intelligence) dentro de seu pet shop. Afinal, ela tem planos de expansão e precisa tomar decisões baseadas em dados.
+
+O que vamos aprender?
+Neste curso, vamos entender o que é o BI e discutiremos sobre esse conceito. Também vamos compreender porque escolher o Power BI como ferramenta para implementar o BI dentro da empresa.
+
+Além disso, vamos aprender tarefas muito importantes, como, por exemplo:
+
+importar diferentes formatos de arquivos para dentro do Power BI;
+tratar dados dentro do Power Query;
+carregar os dados para dentro do Power BI depois de tratá-los.
+Não só isso, vamos aprender também como criar colunas calculadas e como criar medidas utilizando o DAX. Também aprenderemos como criar diferentes tipos de visuais.
+
+Mas, não vamos apenas entregar a análise bruta para a Helô, vamos também aprender como trabalhar com a estilização de dashboards.
+
+Confira o resultado do dashboard que você vai construir conosco do zero para colocar no seu portfólio:
+
+Dashboard da Gatito Petshop no Power BI. Na barra superior, sob um fundo roxo escuro, temos a logo da loja à esquerda; informações destacadas de faturamento total, média de pets e quantidade de produtos vendidos ao centro; campos para inserção de data de compra e marca à direita. No centro da tela, sob um fundo roxo mais claro, temos um gráfico de pizza indicando o faturamento total por gênero; um gráfico de barras horizontais indicando o faturamento total por bairro e um gráfico de área indicando o faturamento em relação à data. À direita, ao lado dos gráficos, temos uma barra de pesquisa por nome do produto e, abaixo, vários ícones selecionáveis de diferentes produtos de petshop, como coleira, ração, petiscos, brinquedos, etc.
+
+Você será capaz de montar esse dashboard e mostrar para todo mundo que domina essas áreas do Power BI.
+
+Ressaltamos a importância de fazer todas as atividades propostas e nos contatar no fórum se surgir alguma dúvida. E, no final, adoraríamos que você compartilhasse o resultado final do dashboard e marcasse a Alura no LinkedIn.
+
+Vamos começar?
 
