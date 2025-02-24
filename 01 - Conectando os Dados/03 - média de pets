@@ -1,5 +1,6 @@
 O que eu aprendi nesta aula?
 
+
 Nesta aula, aprendi a importar dados para o Power BI usando a opção "Obter Dados" e conectei um arquivo TXT de clientes. No Power Query, fiz algumas transformações, 
 como promover cabeçalhos e ajustar os tipos de dados das colunas. Depois de aplicar as mudanças, criei um cartão visual para calcular a média de pets por cliente, 
 alterando o resumo de "soma" para "média" e descobri que, em média, cada cliente tem 2,61 pets.
