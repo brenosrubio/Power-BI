@@ -1,1 +1,7 @@
-
+- Iniciar um relatório em branco no Power BI e importar dados;
+- Ajustar o decodificador de texto para correta visualização dos caracteres em português;
+- Criar visuais no Power BI e ajustar suas configurações;
+- Transformar dados no Power Query e aplicar essas transformações no Power BI;
+- Importar dados de planilhas Excel e usar a opção "Combinar" para unir múltiplas planilhas;
+- Retirar colunas desnecessárias e ajustar tipos de dados no Power Query;
+- Remover linhas e promover cabeçalhos no Power Query.
