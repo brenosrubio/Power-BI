@@ -1,0 +1,6 @@
+O que eu aprendi nesta aula?
+
+
+Nesta aula, aprendi a importar múltiplos arquivos do Excel para o Power BI de forma mais eficiente. Em vez de carregar os arquivos individualmente, 
+movi todos para uma pasta e utilizei a opção "Pasta" no Power BI para importá-los de uma vez. Depois, combinei os dados usando o Power Query, removi 
+a coluna "Nome da origem" e ajustei os tipos de dados corretamente.
