@@ -1,1 +1,6 @@
+O que eu aprendi nesta aula?
 
+
+Nesta aula, aprendi a visualizar tabelas no Power BI e identifiquei que a tabela de vendas não tinha o preço dos produtos. 
+Para resolver isso, importei uma planilha do Google Sheets usando o conector "Web". No Power Query, renomeei a tabela para "Produtos", 
+removi linhas desnecessárias, promovi o cabeçalho e ajustei os tipos de dados. Finalizei aplicando as mudanças para seguir com a análise.
