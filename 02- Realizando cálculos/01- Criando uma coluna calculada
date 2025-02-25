@@ -1,1 +1,7 @@
+O que eu aprendi nesta aula? 
 
+
+Nessa aula, explorei o modelo de dados no Power BI, ajustando os relacionamentos entre as tabelas "Clientes", "Vendas" e "Produtos". 
+Resolvi um problema de cardinalidade removendo valores nulos no Power Query e estabeleci corretamente a relação entre "Clientes" e "Vendas". 
+Depois, criei colunas calculadas, utilizando a função RELATED para trazer o valor unitário dos produtos e, em seguida, calculei o faturamento 
+multiplicando a quantidade vendida pelo valor unitário.
