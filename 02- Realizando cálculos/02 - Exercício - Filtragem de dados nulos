@@ -1,1 +1,15 @@
+Um hospital possui tabelas de pacientes e procedimentos, mas alguns registros de pacientes estão sem identificação (nulos). 
+Como você trataria esses dados?
 
+
+A) Criando um script personalizado em DAX para filtrar os dados nulos.
+
+B) Usar a função RELATED para identificar dados nulos e removê-los.
+
+C) Exportando a tabela de pacientes para Excel, removendo os nulos e importando de volta para Power BI.
+
+D) Adicionando manualmente um valor padrão em vez de vazio para cada entrada nula.
+
+E) No Power Query, selecionar a coluna de ID Paciente, clicar na seta de filtro e escolher a opção "Remover vazio".
+
+RESPOSTA CORRETA: LETRA D 
