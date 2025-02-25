@@ -1,1 +1,7 @@
+O que eu aprendi nesta aula? 
 
+
+Nessa aula, utilizei a funcionalidade de Qualidade da Coluna no Power BI para avaliar a integridade dos dados, identificando valores válidos, 
+erros e dados ausentes. Ajustei a configuração de criação de perfil da coluna para considerar todo o conjunto de dados, garantindo uma análise 
+mais precisa. Ao fazer isso, percebi uma grande quantidade de valores vazios, o que impactava o relacionamento entre as tabelas "Clientes" e "Vendas". 
+Após o tratamento dos dados, consegui estabelecer corretamente os relacionamentos no modelo de dados.
