@@ -1,1 +1,10 @@
+O que eu aprendi nesta aula?
 
+
+
+Nesta auala, aprendi a adicionar um cartão para exibir informações de forma clara e objetiva. Descobri que posso inserir um visual diretamente pela guia "Página 
+Inicial", na seção "Inserir", e selecionar o ícone do cartão no grupo "Medidor, cartão e KPI".Com isso, entendi como utilizar medidas implícitas, que permitem 
+calcular automaticamente valores, como a soma de uma coluna. No meu caso, adicionei a coluna "Quantidade" da tabela "Vendas" ao cartão, e o Power BI realizou a 
+soma automaticamente, sem necessidade de código.Além disso, aprendi sobre medidas explícitas, que me permitem definir cálculos personalizados através da criação 
+de medidas. Para isso, usei a função SUM() para somar a coluna "Faturamento" e exibir o total de faturamento em um novo cartão. Essa abordagem me mostrou como 
+o Power BI facilita a análise de dados ao permitir tanto cálculos automáticos quanto personalizados, tornando a visualização de informações mais dinâmica e acessível.
