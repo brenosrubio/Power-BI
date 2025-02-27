@@ -1,1 +1,15 @@
+Pedro está realizando uma análise em um conjunto de dados e precisa determinar a quantidade total de itens vendidos. 
+Para isso, ele deseja utilizar o Power BI. Qual é a melhor abordagem que Pedro deve adotar e qual linguagem do Power 
+BI ele deve utilizar para obter esse resultado?
 
+
+A) Ele pode criar uma medida para calcular a quantidade total de itens vendidos, utilizando a linguagem M.
+
+B) Ele pode utilizar a linguagem SQL para fazer esse cálculo, criando uma nova coluna na tabela.
+
+C) Ele pode criar uma nova coluna e utilizar a linguagem M para calcular a quantidade total de itens vendidos.
+
+D) Ele pode criar uma medida para fazer esse cálculo de forma mais rápida e, para isso, pode utilizar a linguagem DAX
+
+
+RESPOSTA: LETRA D
