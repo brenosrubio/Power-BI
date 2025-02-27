@@ -1,0 +1,10 @@
+Mais informações...
+
+
+
+No Power BI, duas linguagens fundamentais para manipulação e transformação de dados são o M e o DAX. Ambas as linguagens, M e DAX, desempenham papéis
+complementares no Power BI. O M é utilizado principalmente na fase de preparação dos dados, enquanto o DAX é utilizado para realizar cálculos e análises
+com base nos dados já carregados no modelo de dados. Combinar o uso dessas duas linguagens permite uma transformação completa dos dados, desde a extração
+inicial até a análise final. Para aprofundar seus conhecimentos sobre as linguagens M e DAX no Power BI, recomendo a leitura do artigo Power BI: M e DAX. 
+Ele apresenta uma visão detalhada sobre as características e funcionalidades dessas linguagens, fornecendo insights valiosos para aprimorar suas habilidades 
+no Power BI.
