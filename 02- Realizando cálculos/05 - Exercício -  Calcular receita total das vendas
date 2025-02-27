@@ -1,1 +1,15 @@
+Numa empresa de plataforma de vendas de ingressos, que registra o valor de cada ingresso vendido, é preciso calcular a receita total gerada. 
+Como você criaria uma medida explícita no Power BI para calcular a receita total usando a função 'SUM' na coluna 'Valor' da tabela 'Vendas'?
 
+
+A) Usaria a função COUNT no DAX para contar os valores na coluna 'Valor'.
+
+B) Criaria uma nova coluna calculada usando a fórmula SUM(Vendas[Valor]).
+
+C) Criaria uma nova tabela contendo apenas a soma da coluna 'Valor'.
+
+D) Criaria uma nova medida chamada 'Receita Total' com a fórmula SUM(Vendas[Valor]).
+
+E) Configuraria um gráfico de barras usando a coluna 'Valor' para visualizar a receita.
+
+RESPOSTA: LETRA D
